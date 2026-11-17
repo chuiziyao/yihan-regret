@@ -1,0 +1,13 @@
+node_modules/
+*.mp4
+frames/
+samples/
+docs/gif/
+*.log
+palette*.png
+pal2.png
+verify-*.png
+poster-*.png
+__pycache__/
+gh-user.json
+headers.txt
